@@ -1,8 +1,13 @@
 {
   "name": "Thot Patroller",
+  "description": "Thot Be Gone",
   "version": "0.0.1",
-  "description": "Find and Kill all Thots",
   "main": "bot.js",
-  "author": "GroovyDev",
-  "dependencies": {}
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
 }
