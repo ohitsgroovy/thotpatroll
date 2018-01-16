@@ -1,0 +1,8 @@
+{
+  "name": "Thot Patroller",
+  "version": "0.0.1",
+  "description": "Find and Kill all Thots",
+  "main": "bot.js",
+  "author": "GroovyDev",
+  "dependencies": {}
+}
